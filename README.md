@@ -2,7 +2,7 @@
 - 👀 I’m interested in travels, upcoming things and food.
 - 🌱 I’m currently learning CSS and HTML than JS next
 - 💞️ I’m looking to collaborate on Github 
-- 📫 How to reach me ...
+- 📫 How to reach me : fernandez.mpro@gmail.com
 
 <!---
 FrzMtt/FrzMtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
